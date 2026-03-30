@@ -1,0 +1,16 @@
+{
+  "name": "نظام أبو كرمة الذكي",
+  "short_name": "أبو كرمة",
+  "description": "نظام إدارة المبيعات والمخازن الذكي",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#1a2a6c",
+  "theme_color": "#fdbb2d",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081840.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
